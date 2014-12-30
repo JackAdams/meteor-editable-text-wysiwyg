@@ -1,7 +1,7 @@
-WYSIWYG Extension for babrahams:editable-text package
+WYSIWYG extension for babrahams:editable-text package
 -----------------------------------------------------
 
-This package provides a wysiwyg widget for editing text in-place.
+This package provides a the common code for adding a wysiwyg widget to babarahams:editable-text.
 
 Example app: [http://editable-text.meteor.com](http://editable-text.meteor.com)
 
@@ -10,8 +10,14 @@ Example app repo: [https://github.com/JackAdams/editable-text-example](https://g
 #### Quick Start
 
 	meteor add babrahams:editable-text-wysiwyg
+	
+or
 
-You can then drop an editable text widget into any Blaze template with `wysiwyg=true`:
+    meteor add babrahams:editable-text-wysiwyg-bootstrap-3
+	
+(this package will get added automatically)
+
+You can then drop an editable text widget into any Blaze template as follows:
 
 	{{> editableText collection="posts" field="body" wysiwyg=true}}
 	
@@ -31,10 +37,4 @@ where `singlePostDocument` can be a single post document already set in the curr
 
 #### Documentation
 
-Read the [documentation](https://github.com/JackAdams/meteor-editable-text#editable-text-for-meteor) for the `babrahams:editable-text` package at [https://github.com/JackAdams/meteor-editable-text](https://github.com/JackAdams/meteor-editable-text).
-
-#### Roadmap
-
-~~Sanitize HTML (once babrahams:editable-text has been refactored to make updates via method calls)~~
-
-- Factor out the editor so that it can be easily replaced with a different one or easily configured
+Read the [full documentation](https://github.com/JackAdams/meteor-editable-text#editable-text-for-meteor) for the `babrahams:editable-text` package at [https://github.com/JackAdams/meteor-editable-text](https://github.com/JackAdams/meteor-editable-text).
