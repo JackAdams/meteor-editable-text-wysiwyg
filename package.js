@@ -26,6 +26,6 @@ Package.onUse(function(api) {
 
 Package.onTest(function(api) {
   api.use('tinytest');
-  api.use('editable-text-wysiwyg-base');
+  api.use('babrahams:editable-text-wysiwyg-base');
   api.addFiles('editable-text-wysiwyg-base-tests.js');
 });
