@@ -1,7 +1,7 @@
 Package.describe({
   name: 'babrahams:editable-text-wysiwyg-base',
   summary: 'This package is required for extending babrahams:editable-text with a wysiwyg editor.',
-  version: '0.1.4',
+  version: '0.1.5',
   git: 'https://github.com/JackAdams/meteor-editable-text-wysiwyg-base'
 });
 
@@ -9,7 +9,7 @@ Package.onUse(function(api) {
 	
   api.versionsFrom('1.0');
   
-  api.use('babrahams:editable-text@0.6.3', 'client');
+  api.use('babrahams:editable-text@0.6.4', 'client');
   api.use('templating', 'client');
   api.use('blaze', 'client');
   api.use('spacebars', 'client');
