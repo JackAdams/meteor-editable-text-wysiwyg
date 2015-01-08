@@ -1,7 +1,7 @@
 Package.describe({
   name: 'babrahams:editable-text-wysiwyg',
   summary: 'This package is required for extending babrahams:editable-text with a wysiwyg editor.',
-  version: '0.1.6',
+  version: '0.1.7',
   git: 'https://github.com/JackAdams/meteor-editable-text-wysiwyg'
 });
 
