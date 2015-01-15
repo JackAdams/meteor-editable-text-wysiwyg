@@ -1,0 +1,30 @@
+.wysiwyg-container a.wysiwyg-gdoc, .wysiwyg-content a.wysiwyg-gdoc {
+  color: #36F;	
+  font-size: smaller;
+  text-decoration:none;
+}
+.wysiwyg-container a.wysiwyg-gsheet, .wysiwyg-content a.wysiwyg-gsheet {
+  color: #339933;
+  font-size: smaller;
+  text-decoration:none;
+}
+.wysiwyg-container a.wysiwyg-gslides, .wysiwyg-content a.wysiwyg-gslides {
+  color: #CC9900;
+  font-size: smaller;
+  text-decoration:none;
+}
+.wysiwyg-container a.wysiwyg-gdoc:hover, .wysiwyg-content a.wysiwyg-gdoc:hover {
+  color: #69F;	
+  font-size: smaller;
+  text-decoration:none;
+}
+.wysiwyg-container a.wysiwyg-gsheet:hover, .wysiwyg-content a.wysiwyg-gsheet:hover {
+  color: #6C6;
+  font-size: smaller;
+  text-decoration:none;
+}
+.wysiwyg-container a.wysiwyg-gslides:hover, .wysiwyg-content a.wysiwyg-gslides:hover {
+  color: #EB2;
+  font-size: smaller;
+  text-decoration:none;
+}
