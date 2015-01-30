@@ -6,7 +6,7 @@ Package.describe({
 });
 
 Package.onUse(function(api) {
-	
+    
   api.versionsFrom('1.0');
   
   api.use('babrahams:editable-text@0.7.6', 'client');

@@ -1,5 +1,5 @@
 .wysiwyg-container a.wysiwyg-gdoc, .wysiwyg-content a.wysiwyg-gdoc {
-  color: #36F;	
+  color: #36F;    
   font-size: smaller;
   text-decoration:none;
 }
@@ -14,7 +14,7 @@
   text-decoration:none;
 }
 .wysiwyg-container a.wysiwyg-gdoc:hover, .wysiwyg-content a.wysiwyg-gdoc:hover {
-  color: #69F;	
+  color: #69F;    
   font-size: smaller;
   text-decoration:none;
 }
