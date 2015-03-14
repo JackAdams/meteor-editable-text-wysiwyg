@@ -28,3 +28,7 @@
   font-size: smaller;
   text-decoration:none;
 }
+
+.wysiwyg-container {
+  cursor: auto;	
+}
