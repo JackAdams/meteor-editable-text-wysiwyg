@@ -5,17 +5,17 @@ __Do not `meteor add babrahams:wysiwyg`__
 
 This package provides the base code for adding a wysiwyg widget to babarahams:editable-text. By itself it has no effect.
 
-Example app: [http://editable-text.meteor.com](http://editable-text.meteor.com)
+Example app: [http://editable-text-demo.meteor.com](http://editable-text-demo.meteor.com)
 
-Example app repo: [https://github.com/JackAdams/editable-text-example](https://github.com/JackAdams/editable-text-example)
+Example app repo: [https://github.com/JackAdams/editable-text-demo](https://github.com/JackAdams/editable-text-demo)
 
 #### Quick Start
 
-	meteor add babrahams:editable-text-wysiwyg
+	meteor add babrahams:editable-text-wysiwyg-bootstrap-3
 	
 or
 
-    meteor add babrahams:editable-text-wysiwyg-bootstrap-3
+    meteor add babrahams:editable-text-wysiwyg-bootstrap-2
 	
 (this package will get added automatically)
 
