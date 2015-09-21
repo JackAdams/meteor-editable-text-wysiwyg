@@ -1,9 +1,9 @@
 WYSIWYG extension for babrahams:editable-text package
 -----------------------------------------------------
 
-__Do not `meteor add babrahams:wysiwyg`__
+__Do not `meteor add babrahams:editable-text-wysiwyg`__
 
-This package provides the base code for adding a wysiwyg widget to babarahams:editable-text. By itself it has no effect.
+This package just provides the base code when adding a wysiwyg widget to babarahams:editable-text. By itself it has no effect.
 
 Example app: [http://editable-text-demo.meteor.com](http://editable-text-demo.meteor.com)
 
