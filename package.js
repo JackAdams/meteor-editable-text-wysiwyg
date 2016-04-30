@@ -1,7 +1,7 @@
 Package.describe({
   name: 'babrahams:editable-text-wysiwyg',
   summary: 'Don\'t add this - done automatically when adding a wysiwyg editor to babrahams:editable-text',
-  version: '0.5.11',
+  version: '0.5.12',
   git: 'https://github.com/JackAdams/meteor-editable-text-wysiwyg'
 });
 
@@ -9,7 +9,7 @@ Package.onUse(function(api) {
     
   api.versionsFrom('1.0');
   
-  api.use('babrahams:editable-text@0.8.11', 'client');
+  api.use('babrahams:editable-text@0.8.12', 'client');
   api.use('templating', 'client');
   api.use('blaze', 'client');
   api.use('spacebars', 'client');
