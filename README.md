@@ -5,7 +5,7 @@ __Do not `meteor add babrahams:editable-text-wysiwyg`__
 
 This package just provides the base code when adding a wysiwyg widget to babarahams:editable-text. By itself it has no effect.
 
-Example app: [http://editable-text-demo.meteor.com](http://editable-text-demo.meteor.com)
+Example app: [http://editable-text-demo.taonova.com](http://editable-text-demo.taonova.com)
 
 Example app repo: [https://github.com/JackAdams/editable-text-demo](https://github.com/JackAdams/editable-text-demo)
 
