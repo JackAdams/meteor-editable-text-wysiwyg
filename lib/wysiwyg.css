@@ -1,32 +1,32 @@
-.wysiwyg-container a.wysiwyg-gdoc, .wysiwyg-content a.wysiwyg-gdoc {
+a.wysiwyg-gdoc, .wysiwyg-container a.wysiwyg-gdoc, .wysiwyg-content a.wysiwyg-gdoc {
   color: #36F;    
   font-size: smaller;
-  text-decoration:none;
+  text-decoration: none;
 }
-.wysiwyg-container a.wysiwyg-gsheet, .wysiwyg-content a.wysiwyg-gsheet {
+a.wysiwyg-gsheet, .wysiwyg-container a.wysiwyg-gsheet, .wysiwyg-content a.wysiwyg-gsheet, a.wysiwyg-gform, .wysiwyg-container a.wysiwyg-gform, .wysiwyg-content a.wysiwyg-gform {
   color: #339933;
   font-size: smaller;
-  text-decoration:none;
+  text-decoration: none;
 }
-.wysiwyg-container a.wysiwyg-gslides, .wysiwyg-content a.wysiwyg-gslides {
+a.wysiwyg-gslides, .wysiwyg-container a.wysiwyg-gslides, .wysiwyg-content a.wysiwyg-gslides {
   color: #CC9900;
   font-size: smaller;
-  text-decoration:none;
+  text-decoration: none;
 }
-.wysiwyg-container a.wysiwyg-gdoc:hover, .wysiwyg-content a.wysiwyg-gdoc:hover {
+a.wysiwyg-gdoc:hover, .wysiwyg-container a.wysiwyg-gdoc:hover, .wysiwyg-content a.wysiwyg-gdoc:hover {
   color: #69F;    
   font-size: smaller;
-  text-decoration:none;
+  text-decoration: none;
 }
-.wysiwyg-container a.wysiwyg-gsheet:hover, .wysiwyg-content a.wysiwyg-gsheet:hover {
+a.wysiwyg-gsheet:hover, .wysiwyg-container a.wysiwyg-gsheet:hover, .wysiwyg-content a.wysiwyg-gsheet:hover, a.wysiwyg-gform:hover, .wysiwyg-container a.wysiwyg-gform:hover, .wysiwyg-content a.wysiwyg-gform:hover {
   color: #6C6;
   font-size: smaller;
-  text-decoration:none;
+  text-decoration: none;
 }
-.wysiwyg-container a.wysiwyg-gslides:hover, .wysiwyg-content a.wysiwyg-gslides:hover {
+a.wysiwyg-gslides:hover, .wysiwyg-container a.wysiwyg-gslides:hover, .wysiwyg-content a.wysiwyg-gslides:hover {
   color: #EB2;
   font-size: smaller;
-  text-decoration:none;
+  text-decoration: none;
 }
 
 .wysiwyg-container {
