@@ -1,7 +1,7 @@
 Package.describe({
   name: 'babrahams:editable-text-wysiwyg',
   summary: 'Don\'t add this - done automatically when adding a wysiwyg editor to babrahams:editable-text',
-  version: '0.6.7',
+  version: '0.6.8',
   git: 'https://github.com/JackAdams/meteor-editable-text-wysiwyg'
 });
 
