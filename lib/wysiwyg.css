@@ -3,7 +3,7 @@ a.wysiwyg-gdoc, .wysiwyg-container a.wysiwyg-gdoc, .wysiwyg-content a.wysiwyg-gd
   font-size: smaller;
   text-decoration: none;
 }
-a.wysiwyg-gsheet, .wysiwyg-container a.wysiwyg-gsheet, .wysiwyg-content a.wysiwyg-gsheet, a.wysiwyg-gform, .wysiwyg-container a.wysiwyg-gform, .wysiwyg-content a.wysiwyg-gform {
+a.wysiwyg-gsheet, .wysiwyg-container a.wysiwyg-gsheet, .wysiwyg-content a.wysiwyg-gsheet {
   color: #339933;
   font-size: smaller;
   text-decoration: none;
@@ -13,22 +13,39 @@ a.wysiwyg-gslides, .wysiwyg-container a.wysiwyg-gslides, .wysiwyg-content a.wysi
   font-size: smaller;
   text-decoration: none;
 }
-a.wysiwyg-gdoc:hover, .wysiwyg-container a.wysiwyg-gdoc:hover, .wysiwyg-content a.wysiwyg-gdoc:hover {
-  color: #69F;    
+a.wysiwyg-gform, .wysiwyg-container a.wysiwyg-gform, .wysiwyg-content a.wysiwyg-gform {
+  color: #5b4db5;
   font-size: smaller;
   text-decoration: none;
 }
-a.wysiwyg-gsheet:hover, .wysiwyg-container a.wysiwyg-gsheet:hover, .wysiwyg-content a.wysiwyg-gsheet:hover, a.wysiwyg-gform:hover, .wysiwyg-container a.wysiwyg-gform:hover, .wysiwyg-content a.wysiwyg-gform:hover {
-  color: #6C6;
+a.wysiwyg-folder, .wysiwyg-container a.wysiwyg-folder, .wysiwyg-content a.wysiwyg-folder {
+  color: #999;
   font-size: smaller;
   text-decoration: none;
+}
+a.wysiwyg-document, .wysiwyg-container a.wysiwyg-document, .wysiwyg-content a.wysiwyg-document {
+  color: #315c9d;
+  font-size: smaller;
+  text-decoration: none;
+}
+a.wysiwyg-gdoc:hover, .wysiwyg-container a.wysiwyg-gdoc:hover, .wysiwyg-content a.wysiwyg-gdoc:hover {
+  color: #69F;
+}
+a.wysiwyg-gsheet:hover, .wysiwyg-container a.wysiwyg-gsheet:hover, .wysiwyg-content a.wysiwyg-gsheet:hover {
+  color: #6C6;
 }
 a.wysiwyg-gslides:hover, .wysiwyg-container a.wysiwyg-gslides:hover, .wysiwyg-content a.wysiwyg-gslides:hover {
   color: #EB2;
-  font-size: smaller;
-  text-decoration: none;
 }
-
+a.wysiwyg-gform:hover, .wysiwyg-container a.wysiwyg-gform:hover, .wysiwyg-content a.wysiwyg-gform:hover {
+  color: #7b6dd5;
+}
+a.wysiwyg-folder:hover, .wysiwyg-container a.wysiwyg-folder:hover, .wysiwyg-content a.wysiwyg-folder:hover {
+  color: #bbb;
+}
+a.wysiwyg-document:hover, .wysiwyg-container a.wysiwyg-document:hover, .wysiwyg-content a.wysiwyg-document:hover {
+  color: #517cbd;
+}
 .wysiwyg-container {
   cursor: auto;	
 }
