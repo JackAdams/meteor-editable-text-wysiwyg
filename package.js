@@ -9,7 +9,7 @@ Package.onUse(function(api) {
     
   api.versionsFrom('1.0');
   
-  api.use('babrahams:editable-text@0.9.8', 'client');
+  api.use('babrahams:editable-text@0.9.9', 'client');
   api.use('templating', 'client');
   api.use('blaze', 'client');
   api.use('spacebars', 'client');
