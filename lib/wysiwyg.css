@@ -8,8 +8,43 @@ a.wysiwyg-gsheet, .wysiwyg-container a.wysiwyg-gsheet, .wysiwyg-content a.wysiwy
   font-size: smaller;
   text-decoration: none;
 }
+a.wysiwyg-spreadsheet, .wysiwyg-container a.wysiwyg-spreadsheet, .wysiwyg-content a.wysiwyg-spreadsheet {
+  color: #339933;
+  font-size: smaller;
+  text-decoration: none;
+}
 a.wysiwyg-gslides, .wysiwyg-container a.wysiwyg-gslides, .wysiwyg-content a.wysiwyg-gslides {
   color: #CC9900;
+  font-size: smaller;
+  text-decoration: none;
+}
+a.wysiwyg-presentation, .wysiwyg-container a.wysiwyg-presentation, .wysiwyg-content a.wysiwyg-presentation {
+  color: #dd7700;
+  font-size: smaller;
+  text-decoration: none;
+}
+a.wysiwyg-pdf, .wysiwyg-container a.wysiwyg-pdf, .wysiwyg-content a.wysiwyg-pdf {
+  color: #ff2222;
+  font-size: smaller;
+  text-decoration: none;
+}
+a.wysiwyg-web-link, .wysiwyg-container a.wysiwyg-web-link, .wysiwyg-content a.wysiwyg-web-link {
+  color: #315c9d;
+  font-size: smaller;
+  text-decoration: none;
+}
+a.wysiwyg-video, .wysiwyg-container a.wysiwyg-video, .wysiwyg-content a.wysiwyg-video {
+  color: #315c9d;
+  font-size: smaller;
+  text-decoration: none;
+}
+a.wysiwyg-audio, .wysiwyg-container a.wysiwyg-audio, .wysiwyg-content a.wysiwyg-audio {
+  color: #315c9d;
+  font-size: smaller;
+  text-decoration: none;
+}
+a.wysiwyg-image, .wysiwyg-container a.wysiwyg-image, .wysiwyg-content a.wysiwyg-image {
+  color: #315c9d;
   font-size: smaller;
   text-decoration: none;
 }
@@ -19,7 +54,7 @@ a.wysiwyg-gform, .wysiwyg-container a.wysiwyg-gform, .wysiwyg-content a.wysiwyg-
   text-decoration: none;
 }
 a.wysiwyg-folder, .wysiwyg-container a.wysiwyg-folder, .wysiwyg-content a.wysiwyg-folder {
-  color: #999;
+  color: rgb(210, 190, 30);
   font-size: smaller;
   text-decoration: none;
 }
@@ -34,14 +69,35 @@ a.wysiwyg-gdoc:hover, .wysiwyg-container a.wysiwyg-gdoc:hover, .wysiwyg-content 
 a.wysiwyg-gsheet:hover, .wysiwyg-container a.wysiwyg-gsheet:hover, .wysiwyg-content a.wysiwyg-gsheet:hover {
   color: #6C6;
 }
+a.wysiwyg-spreadsheet:hover, .wysiwyg-container a.wysiwyg-spreadsheet:hover, .wysiwyg-content a.wysiwyg-spreadsheet:hover {
+  color: #6C6;
+}
 a.wysiwyg-gslides:hover, .wysiwyg-container a.wysiwyg-gslides:hover, .wysiwyg-content a.wysiwyg-gslides:hover {
   color: #EB2;
+}
+a.wysiwyg-presentation:hover, .wysiwyg-container a.wysiwyg-presentation:hover, .wysiwyg-content a.wysiwyg-presentation:hover {
+  color: #f92;
+}
+a.wysiwyg-web-link:hover, .wysiwyg-container a.wysiwyg-web-link:hover, .wysiwyg-content a.wysiwyg-web-link:hover {
+  color: #517cbd;
+}
+a.wysiwyg-video:hover, .wysiwyg-container a.wysiwyg-video:hover, .wysiwyg-content a.wysiwyg-video:hover {
+  color: #517cbd;
+}
+a.wysiwyg-audio:hover, .wysiwyg-container a.wysiwyg-audio:hover, .wysiwyg-content a.wysiwyg-audio:hover {
+  color: #517cbd;
+}
+a.wysiwyg-image:hover, .wysiwyg-container a.wysiwyg-image:hover, .wysiwyg-content a.wysiwyg-image:hover {
+  color: #517cbd;
+}
+a.wysiwyg-pdf:hover, .wysiwyg-container a.wysiwyg-pdf:hover, .wysiwyg-content a.wysiwyg-pdf:hover {
+  color: #ff4444;
 }
 a.wysiwyg-gform:hover, .wysiwyg-container a.wysiwyg-gform:hover, .wysiwyg-content a.wysiwyg-gform:hover {
   color: #7b6dd5;
 }
 a.wysiwyg-folder:hover, .wysiwyg-container a.wysiwyg-folder:hover, .wysiwyg-content a.wysiwyg-folder:hover {
-  color: #bbb;
+  color: rgb(220, 220, 35);
 }
 a.wysiwyg-document:hover, .wysiwyg-container a.wysiwyg-document:hover, .wysiwyg-content a.wysiwyg-document:hover {
   color: #517cbd;
